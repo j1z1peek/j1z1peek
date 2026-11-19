@@ -1,6 +1,6 @@
 ### Hi there 👋, Меня зову СБЭУ_Комар
 #### I am студент Stupino филлиал MAI
-![I am студент Stupino филлиал MAI](https://mmos.com/wp-content/uploads/2016/04/escape-from-tarkov-alpha-main-menu-banner.jpg)
+![I am студент Stupino филлиал MAI](https://avatars.mds.yandex.net/get-mpic/11225627/2a0000018ae829edc92ccf9ed4dca69d3f76/orig)
 
 Я все умею
 
