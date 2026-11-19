@@ -1,6 +1,6 @@
 ### Hi there 👋, Меня зову СБЭУ_Комар
 #### I am студент Stupino филлиал MAI
-![I am студент Stupino филлиал MAI](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am студент Stupino филлиал MAI](https://mmos.com/wp-content/uploads/2016/04/escape-from-tarkov-alpha-main-menu-banner.jpg)
 
 Я все умею
 
