@@ -6,7 +6,7 @@
 
 Skills: VUE JS / REACT / JS / HTML / CSS / права категории A,B,C,D и вобще все(получал в дагестане)
 
-- 🔭 I’m currently working on this page. 
+
 
 
 
