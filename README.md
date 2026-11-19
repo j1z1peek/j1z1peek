@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there 👋, Меня зову СБЭУ_Комар
+#### I am студент Stupino филлиал MAI
+![I am студент Stupino филлиал MAI](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**j1z1peek/j1z1peek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я все умею
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS / права категории A,B,C,D и вобще все(получал в дагестане)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
