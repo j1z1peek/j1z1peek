@@ -1,6 +1,6 @@
 ### Hi there 👋, Меня зову СБЭУ_Комар
 #### I am студент Stupino филлиал MAI
-![I am студент Stupino филлиал MAI](https://avatars.mds.yandex.net/i?id=010952c025ec85422fc0b43d8e1c9718_l-8339391-images-thumbs&n=13)
+![I am студент Stupino филлиал MAI](https://avatars.mds.yandex.net/i?id=dcdc133d75a4bfcf112338deb9fda45b_l-3979407-images-thumbs&n=13)
 
 Я все умею
 
